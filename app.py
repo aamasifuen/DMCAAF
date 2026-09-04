@@ -19,7 +19,7 @@ if modulos == "Listas":
 elif modulos == "Arreglos":
    st.write("Te encuentras en el modulo de Arreglos")
 elif modulos == "Funciones":
-  st.write("Te encuentras en el modulo de Funciones")
+   st.write("Te encuentras en el modulo de Funciones")
 else
-  st.write("Te encuentras en el modulo de POO")
+   st.write("Te encuentras en el modulo de POO")
   
